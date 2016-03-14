@@ -23,4 +23,7 @@ test:
 
 production:
   <<: *default
-  database: database3
+  database: d6j93nudp5dc03
+  username: eynmkswtmqsvy
+  host: ec2-54-225-151-64.compute-1.amazonaws.com
+  password: IEzIBfimyvRqifarNfvYN7SL3H
